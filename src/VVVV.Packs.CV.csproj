@@ -88,9 +88,9 @@
       <Project>{450cf5db-edb3-4e59-bd5f-f1857eb76419}</Project>
       <Name>VVVV.Nodes.DeckLink</Name>
     </ProjectReference>
-    <ProjectReference Include="nodes\plugins\Image\DX11\VVVV.Nodes.CV.DX11.csproj">
+    <ProjectReference Include="nodes\plugins\Image\DX11\VVVV.CV.Nodes.DX11.csproj">
       <Project>{9313912a-c352-4757-80d6-1ca154e84237}</Project>
-      <Name>VVVV.Nodes.CV.DX11</Name>
+      <Name>VVVV.CV.Nodes.DX11</Name>
     </ProjectReference>
     <ProjectReference Include="nodes\plugins\Image\EDSDK\VVVV.Nodes.OpenCV.EDSDK.csproj">
       <Project>{5edb3c6e-2685-44f6-bd71-678cfc10ab31}</Project>
